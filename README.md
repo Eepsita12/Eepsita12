@@ -1,4 +1,4 @@
-Hi, I’m Eepsita Modi, a final-year B.Tech Information Technology student with hands-on experience in MERN stack development, backend APIs, and Generative AI integration. I enjoy building scalable, real-world applications with clean architecture and reliable systems, and I’m currently working on backend-focused MERN projects with AI-assisted features. I’m interested in collaborating on web development, backend systems, and practical GenAI applications, while continuing to deepen my knowledge of advanced backend development, API design, and controlled Generative AI workflows.
+Hi, I’m Eepsita Modi, a final-year B.Tech IT student focused on MERN stack development, backend APIs, and Generative AI integration. I enjoy building scalable, real-world applications with clean architecture and reliable systems.
 
 
 ## Socials:
